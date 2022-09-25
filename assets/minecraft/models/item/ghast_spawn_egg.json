@@ -1,6 +1,7 @@
 {
     "parent": "item/template_spawn_egg",
     "overrides": [
-        { "predicate": { "custom_model_data": 1}, "model": "item/blocks/toggle_block" }
+        { "predicate": { "custom_model_data": 1}, "model": "item/blocks/toggle_block" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/blocks/snake_block" }
     ]
 }
