@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/shield_model",
     "overrides": [
         { "predicate": { "custom_model_data": 1}, "model": "item/tools/block_selector" },
         { "predicate": { "custom_model_data": 2}, "model": "item/tools/val_setter" },
