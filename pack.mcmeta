@@ -2,7 +2,7 @@
   "pack":
   {
     "pack_format": 9,
-    "description": ""
+    "description": "An optional resource pack for the builder to better distinguish the builder tools"
 
   }
 }
