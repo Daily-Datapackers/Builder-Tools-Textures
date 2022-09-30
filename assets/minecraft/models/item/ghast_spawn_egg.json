@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+{
+    "parent": "item/template_spawn_egg",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/blocks/toggle_block" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/blocks/snake_block" },
+        { "predicate": { "custom_model_data": 3}, "model": "item/blocks/trigger_block" }
+    ]
+}
+=======
 {
     "parent": "item/template_spawn_egg",
     "overrides": [
@@ -5,3 +15,4 @@
         { "predicate": { "custom_model_data": 2}, "model": "item/blocks/snake_block" }
     ]
 }
+>>>>>>> e01f80d4f9a3b4c3d2171ebb6faa913a4b21311c

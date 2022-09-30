@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+{
+    "parent": "minecraft:item/shield_model",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/tools/block_selector" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/tools/val_setter" },
+        { "predicate": { "custom_model_data": 3}, "model": "item/tools/info_getter" },
+        { "predicate": { "custom_model_data": 4}, "model": "item/tools/val_selector" },
+        { "predicate": { "custom_model_data": 5}, "model": "item/tools/linking_tool" }
+    ]
+}
+=======
 {
     "parent": "minecraft:item/shield_model",
     "overrides": [
@@ -7,3 +19,4 @@
         { "predicate": { "custom_model_data": 4}, "model": "item/tools/val_selector" }
     ]
 }
+>>>>>>> e01f80d4f9a3b4c3d2171ebb6faa913a4b21311c
