@@ -1,5 +1,5 @@
 {
-    "parent": "block/block",
+    "parent": "block/acacia_leaves",
     "overrides": [
         { "predicate": { "custom_model_data": 1}, "model": "item/blocks/3d_fan" }
     ]
