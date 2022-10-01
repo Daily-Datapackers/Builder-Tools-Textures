@@ -10,7 +10,6 @@ An optional resource pack for the builder to better distinguish the builder tool
 ## **What textures?**
 
 **Parkour tools**
-
 - Blocktype Changer
 - Block Selector
 - Val Selector
@@ -25,6 +24,7 @@ An optional resource pack for the builder to better distinguish the builder tool
 
 **Dont Stop Running Items**
 - Checkpoints
+- Checkpoints Setter
 
 
 *github said me to add readme, so i did .-.*
