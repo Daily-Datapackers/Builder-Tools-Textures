@@ -5,6 +5,7 @@
         { "predicate": { "custom_model_data": 2}, "model": "item/blocks/snake_block" },
         { "predicate": { "custom_model_data": 3}, "model": "item/blocks/trigger_block" },
         { "predicate": { "custom_model_data": 4}, "model": "block/fan_block" },
-        { "predicate": { "custom_model_data": 5}, "model": "block/teleport_block" }
+        { "predicate": { "custom_model_data": 5}, "model": "block/teleport_block" },
+        { "predicate": { "custom_model_data": 6}, "model": "block/death_block" }
     ]
 }
