@@ -6,6 +6,8 @@
         { "predicate": { "custom_model_data": 3}, "model": "item/blocks/trigger_block" },
         { "predicate": { "custom_model_data": 4}, "model": "block/fan_block" },
         { "predicate": { "custom_model_data": 5}, "model": "block/teleport_block" },
-        { "predicate": { "custom_model_data": 6}, "model": "block/death_block" }
+        { "predicate": { "custom_model_data": 6}, "model": "block/death_block" },
+        { "predicate": { "custom_model_data": 7}, "model": "block/ceiling_block_sticky" },
+        { "predicate": { "custom_model_data": 8}, "model": "block/ceiling_block_release" }
     ]
 }
