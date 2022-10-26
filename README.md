@@ -10,21 +10,19 @@ An optional resource pack for the builder to better distinguish the builder tool
 ## **What textures?**
 
 **Parkour tools**
-- Blocktype Changer
 - Block Selector
-- Val Selector
+- Blocktype Changer
 - Info Getter
+- Val Selector
 - Val Setter
 - Linking Tool
 
 **Parkour Block Items**
+- Trigger Block
 - Toggle Block
 - Snake Block
-- Trigger Block
 
 **Dont Stop Running Items**
 - Checkpoints
 - Checkpoints Setter
-
-
-*github said me to add readme, so i did .-.*
+- Finish
